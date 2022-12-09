@@ -12,4 +12,4 @@ A: Made a website!"Don't wait for opportunity. Create it." - George Bernard Shaw
 A: Because Oct 31 equals Dec 25!"Success is not final; failure is not fatal: It is the courage to continue that counts." - Winston ChurchillQ: Why don't computers like octal jokes?
 A: Because they are always off by one."Don't forget to comment your code - it'll make debugging much easier in the future... right after you magic away all of the bugs."Q: Why did the programmer quit his job?
 A: He didn't get arrays.Q: Why did the programmer quit his job?
-A: Because he didn't get arrays.
+A: Because he didn't get arrays."A goal without a plan is just a wish." - Antoine de Saint-Exupéry
