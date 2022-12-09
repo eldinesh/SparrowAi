@@ -15,4 +15,5 @@ A: He didn't get arrays.Q: Why did the programmer quit his job?
 A: Because he didn't get arrays."A goal without a plan is just a wish." - Antoine de Saint-Exupéry"Save time by writing unreadable and difficult to maintain code."Q: Why was the JavaScript developer sad?
 A: Because he didn't Node how to Express himself."If everything is going wrong, add more comments to your code - that should fix it!"Q: What did the computer think at the end of every day?
 A: "That was a hard drive!"Q: What did the database say to the other database?
-A: Can I relational you for a bit?"The only way to do great work is to love what you do." - Steve Jobs
+A: Can I relational you for a bit?"The only way to do great work is to love what you do." - Steve JobsQ: What did the HTML tag say to the CSS tag? 
+A: You go ahead and style me, I'll just sit here looking pretty.
