@@ -2,4 +2,5 @@ Q: Why did the programmer quit his job?
 A: Because he didn't get arrays.Q: Why did the JavaScript cross the road? 
 A: To get to the other Boolean."Start your coding journey by spending hours trying to solve a problem that has already been solved before.""Don't forget to comment your code - it makes it much harder to read!""Life is not about waiting for the storm to pass; it's about learning to dance in the rain." - Unknown"The future belongs to those who believe in the beauty of their dreams." - Eleanor RooseveltQ: What did the fish say when it hit the wall? 
 A: Dam!Q: What did the programmer say when he found a big bug in his code? 
-A: "It looks like I'm gonna have to debug this!"
+A: "It looks like I'm gonna have to debug this!"Q: Why don't programmers like nature?
+A: It has too many bugs.
