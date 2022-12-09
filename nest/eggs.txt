@@ -22,4 +22,4 @@ A: Because he didn't get arrays."The future belongs to those who believe in the 
 A: "It looks like a bug, let's debug it!"Q: Why did the programmer stop writing bug-free code?
 A: Because he realized he'd never debug the universe."Life isn't about waiting for the storm to pass; it's about learning to dance in the rain." - Anonymous"If something is broken, try adding more code - that always fixes everything!"Q: Why did the programmer quit his job? 
 A: He didn't get arrays."Make sure to start coding from the beginning — it'll save a lot of debugging time later on!"Q: How did the programmer die in the shower? 
-A: He read the shampoo bottle instructions: Lather. Rinse. Repeat."Make sure to comment your code so that future generations of developers can enjoy your convoluted, illegible mess!"
+A: He read the shampoo bottle instructions: Lather. Rinse. Repeat."Make sure to comment your code so that future generations of developers can enjoy your convoluted, illegible mess!""Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
