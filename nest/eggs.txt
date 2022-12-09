@@ -4,4 +4,5 @@ A: To get to the other Boolean."Start your coding journey by spending hours tryi
 A: Dam!Q: What did the programmer say when he found a big bug in his code? 
 A: "It looks like I'm gonna have to debug this!"Q: Why don't programmers like nature?
 A: It has too many bugs.Q: What did the computer do at lunchtime?
-A: It had a byte!
+A: It had a byte!Q: Why did the computer keep sneezing?
+A: It had a hardware problem!
