@@ -13,4 +13,4 @@ A: Because Oct 31 equals Dec 25!"Success is not final; failure is not fatal: It 
 A: Because they are always off by one."Don't forget to comment your code - it'll make debugging much easier in the future... right after you magic away all of the bugs."Q: Why did the programmer quit his job?
 A: He didn't get arrays.Q: Why did the programmer quit his job?
 A: Because he didn't get arrays."A goal without a plan is just a wish." - Antoine de Saint-Exupéry"Save time by writing unreadable and difficult to maintain code."Q: Why was the JavaScript developer sad?
-A: Because he didn't Node how to Express himself.
+A: Because he didn't Node how to Express himself."If everything is going wrong, add more comments to your code - that should fix it!"
