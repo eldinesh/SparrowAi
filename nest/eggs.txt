@@ -5,4 +5,5 @@ A: Dam!Q: What did the programmer say when he found a big bug in his code?
 A: "It looks like I'm gonna have to debug this!"Q: Why don't programmers like nature?
 A: It has too many bugs.Q: What did the computer do at lunchtime?
 A: It had a byte!Q: Why did the computer keep sneezing?
-A: It had a hardware problem!"Always comment your code - it makes it much easier to debug... two years later when you have no idea what it does.""It always seems impossible until it's done." - Nelson Mandela
+A: It had a hardware problem!"Always comment your code - it makes it much easier to debug... two years later when you have no idea what it does.""It always seems impossible until it's done." - Nelson MandelaQ: What did the Java code say to the C# code?
+A: You're so static.
