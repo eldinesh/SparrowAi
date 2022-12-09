@@ -6,4 +6,4 @@ A: "It looks like I'm gonna have to debug this!"Q: Why don't programmers like na
 A: It has too many bugs.Q: What did the computer do at lunchtime?
 A: It had a byte!Q: Why did the computer keep sneezing?
 A: It had a hardware problem!"Always comment your code - it makes it much easier to debug... two years later when you have no idea what it does.""It always seems impossible until it's done." - Nelson MandelaQ: What did the Java code say to the C# code?
-A: You're so static.
+A: You're so static."Life is ten percent what you experience and ninety percent how you respond to it." - Dorothy M. Neddermeyer
