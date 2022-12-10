@@ -34,4 +34,4 @@ A: Because he didn't get arrays."Life is what happens when you're busy making ot
 A: "You're looking well-styled today!"Q: Why do programmers always mix up Halloween and Christmas?
 A: Because Oct 31 == Dec 25!"Don't forget to check your code for errors at least 10 times before you run it - that should fix all the bugs!""Life is not measured by the number of breaths we take, but by the moments that take away our breath." - AnonymousQ: What did the Java programmer name his daughter? 
 A: Ada."Life is what happens to you while you're busy making other plans." -John Lennon"The future belongs to those who believe in the beauty of their dreams." - Eleanor RooseveltQ: Why did the programmer quit his job?
-A: Because he didn't get arrays."It's called 'debugging', not 'magic'."
+A: Because he didn't get arrays."It's called 'debugging', not 'magic'.""Always remember to use the most efficient algorithm for your project - for maximum efficiency, try using a pencil and paper."
