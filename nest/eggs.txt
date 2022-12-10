@@ -28,4 +28,5 @@ A: Because they don't C#!Q: How did the programmer die in the shower?
 A: He read the shampoo bottle instructions: Lather, Rinse, Repeat."Life is 10% what happens to us and 90% how we react to it." - Charles R. Swindoll"Go ahead and write the entirety of your program without testing anything; it'll definitely save you time in the long run.""Don't forget to comment your code - it'll make debugging a breeze!""Don't forget to add plenty of 'magic numbers' to make your code more readable!""The less code you write, the fewer bugs you'll have."Q: Why do Java developers wear glasses? 
 A: Because they can't C#"Always make sure to comment your code - it makes it much easier for the next developer to understand what it does… And also how confused you were when writing it."Q: What did the bug say when it stepped on an electrical outlet?
 
-A: "Ouch! Give me a byte!"
+A: "Ouch! Give me a byte!"Q: What do you call an infinite loop?
+A: A ripple in time.
