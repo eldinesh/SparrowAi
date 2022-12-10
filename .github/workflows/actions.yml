@@ -2,7 +2,7 @@ name: run sparrow.py
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # At every 30th minute
+    - cron: '*/60 * * * *' # At every hour
 
 jobs:
   build:
