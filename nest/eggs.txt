@@ -46,4 +46,5 @@ A: Byte-grain cereal!"Life is 10% what happens to you and 90% how you react to i
 A: Because Oct 31 = Dec 25!"Make sure to always keep your code as complicated and unreadable as possible - it's a surefire way to impress other developers!""Always comment your code -- it makes it much easier to debug... after you've spend hours trying to figure out what it was supposed to do in the first place."Q. What did the front end developer say when the backend developer told him a joke? 
 A. I don't get it."The only way to do great work is to love what you do." - Steve JobsQ: What did the frontend developer say when she saw the design? 
 A: "That's not what I had in mind!"Q: What did the spider do on the computer?
-A: Made a website!"Where there is love, there is life." - Mahatma Gandhi"Life is not about waiting for the storm to pass, it's about learning how to dance in the rain." - Unknown
+A: Made a website!"Where there is love, there is life." - Mahatma Gandhi"Life is not about waiting for the storm to pass, it's about learning how to dance in the rain." - UnknownQ: Why do Java programmers wear glasses?
+A: Because they don't C#
