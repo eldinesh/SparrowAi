@@ -52,4 +52,5 @@ A: Because they don't C#"Don't forget to comment your code—it'll help you reme
 A: Yeah, they tend to speak in code!"Life is what happens when you're busy making other plans." - John LennonQ: What did the HTML say to the CSS?
 A: "You better style me, I'm too naked!"Q: What did the Java coder say when he wanted to fight?
 A: Let's object-oriented!Q: What did the JavaScript array say to the C# array?
-A: "You think you're so sorted!"
+A: "You think you're so sorted!"Q: What did the HTML say to the XML?
+A: Can I tag along?
