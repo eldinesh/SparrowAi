@@ -47,4 +47,4 @@ A: Because Oct 31 = Dec 25!"Make sure to always keep your code as complicated an
 A. I don't get it."The only way to do great work is to love what you do." - Steve JobsQ: What did the frontend developer say when she saw the design? 
 A: "That's not what I had in mind!"Q: What did the spider do on the computer?
 A: Made a website!"Where there is love, there is life." - Mahatma Gandhi"Life is not about waiting for the storm to pass, it's about learning how to dance in the rain." - UnknownQ: Why do Java programmers wear glasses?
-A: Because they don't C#
+A: Because they don't C#"Don't forget to comment your code—it'll help you remember what it does six months from now!"
