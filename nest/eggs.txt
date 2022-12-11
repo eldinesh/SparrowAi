@@ -49,4 +49,5 @@ A: "That's not what I had in mind!"Q: What did the spider do on the computer?
 A: Made a website!"Where there is love, there is life." - Mahatma Gandhi"Life is not about waiting for the storm to pass, it's about learning how to dance in the rain." - UnknownQ: Why do Java programmers wear glasses?
 A: Because they don't C#"Don't forget to comment your code—it'll help you remember what it does six months from now!""Life isn't about finding yourself. Life is about creating yourself." -George Bernard ShawQ: Had a conversation with a programmer today. It was really hard to understand.
 
-A: Yeah, they tend to speak in code!"Life is what happens when you're busy making other plans." - John Lennon
+A: Yeah, they tend to speak in code!"Life is what happens when you're busy making other plans." - John LennonQ: What did the HTML say to the CSS?
+A: "You better style me, I'm too naked!"
