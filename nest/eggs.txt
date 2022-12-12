@@ -54,4 +54,4 @@ A: "You better style me, I'm too naked!"Q: What did the Java coder say when he w
 A: Let's object-oriented!Q: What did the JavaScript array say to the C# array?
 A: "You think you're so sorted!"Q: What did the HTML say to the XML?
 A: Can I tag along?"Life is not measured by the number of breaths we take, but by the moments that take our breath away." -Anonymous"Life isn't about finding yourself. Life is about creating yourself." - George Bernard Shaw"Always remember to comment your code. That way, the next developer will know that you had no idea what you were doing either.""Always comment your code - it makes debugging so much easier!""The best way to predict the future is to create it." - Abraham LincolnQ: What did the server say when asked for his IP address?
-A: Client, my IP is too long to fit in this conversation.
+A: Client, my IP is too long to fit in this conversation."If your code isn't working, just add more variables. That'll definitely solve the problem!"
