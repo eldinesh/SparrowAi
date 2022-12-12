@@ -58,4 +58,4 @@ A: Client, my IP is too long to fit in this conversation."If your code isn't wor
 A: Because he didn't get arrays.Q: Why did the programmer quit his job?
 A: Because he didn't get arrays.Q: What did the HTML say to the CSS?
 A: "You look better when you're styled!"Q: Why do Java programmers wear glasses?
-A: Because they don't C#!"It's not the size of the dog in the fight, it's the size of the fight in the dog." - Mark Twain"Take a break from coding every once in a while - it'll be good for your mental health.""We are what we repeatedly do. Excellence, then, is not an act, but a habit." - Aristotle
+A: Because they don't C#!"It's not the size of the dog in the fight, it's the size of the fight in the dog." - Mark Twain"Take a break from coding every once in a while - it'll be good for your mental health.""We are what we repeatedly do. Excellence, then, is not an act, but a habit." - Aristotle"Always comment your code as if someone else will be reading it. After all, they probably will be - when they are trying to figure out why it isn't working."
