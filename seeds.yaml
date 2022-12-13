@@ -1,4 +1,10 @@
 seeds:
-  - quote
-  - sarcastic coding tip
-  - coding joke
+  - tell me a quote
+  - tell me a sarcastic coding tip
+  - tell me a coding joke
+  - tell me about 
+
+hashtags:
+  - "#quote #inspiration #motivation #life #openai #lifequotes"
+  - "#coding #technology #developer #programming #openai"
+  - "#codingmemes #codingjokes #codinghumor #codinglife #openai"

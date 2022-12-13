@@ -16,7 +16,10 @@ client_id = config['twitter']['client_id']
 client_secret = config['twitter']['client_secret']
 
 # Specify the path
-locNest = 'nest/eggs.txt'
+locNest = 'nest/eggs.json'
+
+# Temporary list to hold the tweets
+tweets = []
 
 # Twitter Authenticaiton and client setup
 client = auth(api_key, api_key_secret, access_token, access_token_secret)
@@ -24,17 +27,5 @@ client = auth(api_key, api_key_secret, access_token, access_token_secret)
 # Generate the prompt
 prompt = genPrompt()
 
-# Generate the content
-data = genText(open_api_key, open_engine, prompt)
-
-# Tweet the content
-response = postStatus(client, data)
-
-if response == 200:
-    print('Tweeted: ' + data)
-    
-    with open(locNest, 'a') as f:
-        f.write(data)
-
-else:
-    print('Error: ' + str(response))
+# Generate the content and tweet it
+validateContent(open_api_key, open_engine, prompt, locNest, tweets, client)
