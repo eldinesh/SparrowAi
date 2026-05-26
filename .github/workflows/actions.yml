@@ -1,6 +1,7 @@
 name: run sparrow.py
 
 on:
+  workflow_dispatch:  # ← enables the manual "Run workflow" button
   schedule:
     - cron: '0 */2 * * *' # At minute 0 past every 2nd hour
 
@@ -9,19 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+        uses: actions/checkout@v4  # updated from v2
 
       - name: setup python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  # updated from v4
         with:
-          python-version: '3.10.6' # install the python version needed
-          
+          python-version: '3.10.6'
+
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          
-      - name: execute py script # run sparrow.py
+
+      - name: execute py script
         env:
           open_api_key: ${{ secrets.open_api_key }}
           open_engine: ${{ secrets.open_engine }}
@@ -30,7 +31,7 @@ jobs:
           access_token: ${{ secrets.access_token }}
           access_token_secret: ${{ secrets.access_token_secret }}
         run: python sparrow.py
-          
+
       - name: commit files
         run: |
           git config --local user.email "43813358+eldinesh@users.noreply.github.com"
